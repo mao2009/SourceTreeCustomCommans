@@ -1,0 +1,1 @@
+code "%~dpn1\.gitignore"
